@@ -1,0 +1,32 @@
+
+/* assignment 2 css
+ kuldeep_rajpurohit
+	 SIRSS1259
+ */
+
+.column {
+  
+    float: left; 
+    width: 33.33% ;
+    padding: auto;
+   
+  
+}
+
+.split{
+        margin-right: 5%;
+        margin-left: 5%;
+        width: 90%;
+
+}
+
+.middle{
+    border-left:2px solid black;
+    height: 220px;
+}
+
+.right{
+    border-left:2px solid black;
+    height: 220px;
+}
+

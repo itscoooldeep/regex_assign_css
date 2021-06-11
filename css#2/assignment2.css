@@ -1,0 +1,103 @@
+/*
+ kuldeep_rajpurohit
+	 SIRSS1259    
+assignment 2 css
+   
+*/
+
+
+body{
+    background-color:gray;   
+     z-index: 1;
+}
+
+.box{
+    background-color: #fff;
+    
+    margin-right: 15%;
+    margin-left: 15%;
+}
+ 
+
+  /*  
+    assignment 2 css
+    #task 1
+    SIRSS1264 
+    sohaib khan
+*/
+
+
+.column {
+  
+    float: left; 
+    width: 33.33% ;
+    padding: auto;
+   
+  
+}
+
+
+.row:after {
+    content: "";
+    display:grid;
+   
+    clear: both;
+}
+
+.left{
+    z-index: 2;
+    color: #4C4C4C;
+    padding: 10px;
+     
+      
+    
+
+}
+
+
+.middle{
+
+    z-index: 2;
+    color: #4C4C4C;
+    padding: 10px;   
+      
+
+
+
+}
+.right{
+    z-index: 2;
+    color: #4C4C4C;
+    padding: 10px;   
+    
+
+}
+.flow{
+
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+.sub{
+    background-color:red;
+    color: white;
+}
+
+.child{
+    color: #0a5a78;
+
+}
+
+  .number {
+      background-color: #eeb500;
+      color: white;
+
+      width: 30px;
+      height: 30px; 
+      position: relative;
+
+  }
+
+
+
+  

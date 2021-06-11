@@ -1,0 +1,27 @@
+/*
+     kuldeep_rajpurohit
+	 SIRSS1259
+    
+    
+*/
+
+body {
+   font-family: algerian;
+   color: #99722b;
+   background-color: black;
+}
+
+
+.exo{
+   
+    background-image: url("backgrounds.jpg");
+    width: 360px;
+    height: 580px;
+	padding: 60px;
+	
+    position: relative;
+    margin: 30px auto 30px auto ;
+
+
+}
+
